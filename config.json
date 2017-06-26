@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-    "more": "Está rede representa as conexões entre os usuários da rede humaniza sus, tais conexões são geradas a partir do botão 'seguir' que existe em cada um dos perfis da rede, sendo uma maneira de interação entre os usuários.",
-    "intro": "Está rede representa as conexões entre os usuários da rede humaniza sus, tais conexões são geradas a partir do botão 'seguir' que existe em cada um dos perfis da rede, sendo uma maneira de interação entre os usuários.",
+    "more": "",
+    "intro": "Rede que demonstra em forma de visualização quem segue quem dentro da Rede Humaniza SUS",
     "title": ""
   },
   "legend": {
     "edgeLabel": "Arestas",
-    "colorLabel": "Comunidades",
+    "colorLabel": "Cores",
     "nodeLabel": "Atores"
   },
   "features": {
